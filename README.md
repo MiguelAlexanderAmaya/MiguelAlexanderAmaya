@@ -1,4 +1,4 @@
-- Hello I’m @MiguelAlexanderAmaya a junior developer.
+- Hello I’m @MiguelAlexanderAmaya a software developer.
 - I’m interested in learning about technologies and their applications, in order to make the life easier.
 - I’m currently learning python, machine learning and artificial inteligence.
 - I’m looking to collaborate on opensource projects.
