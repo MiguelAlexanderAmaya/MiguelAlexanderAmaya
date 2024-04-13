@@ -1,6 +1,6 @@
-- Hello I’m @MiguelAlexanderAmaya a software developer.
+- Hello I’m @MiguelAlexanderAmaya a chemistry student.
 - I’m interested in learning about technologies and their applications, in order to make the life easier.
-- I’m currently learning python, machine learning and artificial inteligence.
+- I’m currently learning Python, Linux and Chemistry.
 - I’m looking to collaborate on opensource projects.
 - If you want to talk with me, you can write me to, email: amayamiguel528@outlook.com.
 
