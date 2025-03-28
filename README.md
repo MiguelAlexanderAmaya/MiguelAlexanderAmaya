@@ -1,7 +1,7 @@
 - Hello I’m @MiguelAlexanderAmaya a chemistry student.
-- I’m interested in learning about technologies and their applications, in order to make the life easier.
+- I’m interested in learning about technologies and their applications.
 - I’m currently learning Python, Linux and Chemistry.
-- I’m looking to collaborate on opensource projects.
+- I’m looking to create opensource projects.
 - If you want to talk with me, you can write me to, email: amayamiguel528@outlook.com.
 
 <!---
